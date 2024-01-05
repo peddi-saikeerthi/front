@@ -1,0 +1,89 @@
+.background{
+    
+    background-color:whitesmoke;
+    width: 100%;
+    height: auto;
+}
+.card_bg{
+    background:linear-gradient(120deg, #1abc9c, #3498db, #1abc9c);
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    height: 60px;
+    width:100%
+}
+.card{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: 100px;
+}
+.green{
+    display: flex;
+    justify-content: start;
+    align-items:center;
+    margin-left: -90rem;
+ top: -0.3rem;
+ position: absolute;
+    
+}
+.position{
+    display: flex;
+    align-items: center;
+}
+.title{
+    width: 100%;
+    height:50px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    margin-right: 6.5rem;
+}
+.vishnu{
+    justify-content: end;
+    display: flex;
+    margin-left: 66rem;
+    border-radius: 50%;
+    height:50px ;
+    margin-top: 0.8rem;
+   
+}
+.home{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 600px;
+    width: 90%;
+    margin: 80px;
+    
+}
+.header{
+    color:antiquewhite;
+
+    align-items: center;
+    margin-bottom: 500px;
+    font-size: 300%;
+}
+.opacity{
+    opacity: 90%;
+    filter: blur(3px);
+  -webkit-filter: blur(3px);
+  
+    
+}
+.part{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    font-family: italic;
+    font-size: 300%;
+}
+
+.cgf{
+    margin-left: 5px;
+}
+.graph{
+    margin-left:-185rem ;
+    top: -0.1rem;
+   
+}

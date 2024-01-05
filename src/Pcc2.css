@@ -1,0 +1,146 @@
+.straightline{
+    margin-left: -4rem;
+    top: 4rem;
+    position: absolute;
+    height: 52rem;
+}
+.straightline2{
+    margin-left: -4rem;
+    top: 2rem;
+    position: absolute;
+    height: 52rem;
+}
+.rw1{
+    width: 9rem;
+    margin-left: 9rem;
+}
+.rw2{
+    margin-left: -9rem;
+    width: 9rem;
+   top: 7rem;
+   position: relative;
+}
+.rw3{
+    margin-left: -9rem;
+    width: 9rem;
+    position:relative;
+    top: 14rem;
+}
+.rw4{
+    margin-left: -9rem;
+    width: 9rem;
+    position: relative;
+    top: 21rem;
+}
+.rw5{
+    margin-left: -9rem;
+    width: 9rem;
+    position: relative;
+    top:28rem;
+}
+.rw6{
+    margin-left: -9rem;
+    width: 9rem;
+    position: relative;
+    top: 35rem;
+}
+.rw7{
+    margin-left: -9rem;
+    width: 9rem;
+    position: relative;
+    top: 42rem;
+}
+.rw8{
+    margin-left: -9rem;
+    width: 9rem;
+    position: relative;
+    top: 49rem;
+}
+.pcc-card{
+    width: 90%;
+    height: 150rem;
+    margin-left: 5rem;
+    top: -0.5rem;
+   
+}
+.bb1{
+    top: -4rem;
+    margin-left: 1rem;
+    display: flex;
+    width: 20%;
+}
+.bb2{
+    top: 3rem;
+    margin-left: -17rem;
+    position: absolute;
+    height: 40px;
+    width: 20%;
+}
+.bb3{
+    top: 10rem;
+    margin-left: -17rem;
+    width: 20%;
+}
+.bb4{
+    top: 17rem;
+    margin-left: -17rem;
+    width: 20%;
+}
+.ari{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.bb5{
+    width: 20%;
+    top: 24rem;
+    margin-left: -17rem;
+}
+.bb6{
+    width: 20%;
+    top: 31rem;
+    margin-left: -17rem;
+}
+.bb7{
+    width: 20%;
+    top: 38rem;
+    margin-left: -17rem;
+}
+.bb8{
+    width: 20%;
+    top: 45rem;
+    margin-left: -17rem;
+}
+.div1{
+    top: 46rem;
+    position: relative;
+}
+.bi.bi-x-lg {
+    font-size: 4em; 
+    margin-left: 7.2rem;
+    top: 54rem;
+    position: absolute;
+/* Adjust the size as needed */
+}
+.bus{
+    font-size: 25px;
+    margin-left: 5rem;
+    top: -5.5rem;
+    position: relative;
+}
+.current1{
+    margin-left: 40rem;
+    padding: 24.5px;
+    top: -19.4rem;
+    position: absolute;
+}
+.power1{
+    margin-left: 55rem;
+    bottom: 131.4rem;
+    padding: 24.5px;
+}
+.energy1{
+    margin-left: 70rem;
+    bottom: 243.4rem;
+    padding: 24.5px;
+}

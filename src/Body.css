@@ -1,0 +1,252 @@
+.pcc{
+width: 57%;
+height: 36rem;
+top: 1rem;
+}
+
+.button{
+    
+    text-align: left;
+    margin-left:1rem ;
+    top: -34.5rem;
+}
+.button2{
+    top: -24.2rem;
+    margin-left:-4.8rem;
+    text-align: left;
+}
+.text{
+    margin-left: 30rem;
+    top: -1.5rem;
+    pointer-events: none; /* Disable pointer events */
+  opacity: 0.6; 
+}
+.current{
+    margin-left: 40rem;
+    top: -5.3rem;
+}
+
+.line{
+    rotate: 90deg;
+    height: 40rem;
+    margin-left: -18rem;
+    margin-top: -2rem;
+}
+.arrow{
+    width: 9rem;
+    margin-left: -17rem;
+}
+.ar1{
+    margin-left: -9rem;
+    width: 9rem;
+   top: -30.2rem;
+   position: relative;
+}
+.ar2{
+    margin-left: -9rem;
+    width: 9rem;
+    position:relative;
+    top: -20rem;
+}
+.ar3{
+    margin-left: -9rem;
+    width: 9rem;
+    position: relative;
+    top: -10rem;
+}
+.button3{
+    top: -14.2rem;
+    margin-left:-4.8rem;
+    text-align: left;
+}
+.button4{
+    top: -4.2rem;
+    margin-left:-4.8rem;
+    text-align: left;
+}
+.head{
+    text-align: center;
+    justify-content:center;
+    display: flex;
+    font-size: 18px;
+    padding: -3rem;
+   
+}
+.rainbow-p-around_medium{
+    margin-left: 25rem;
+    top: -38.5rem;
+    position: relative;
+    
+}
+.rainbow-p-around_medium1{
+    margin-left: 25rem;
+    position: relative;
+    top: -32rem;
+}
+.rainbow-p-around_medium2{
+    margin-left: 25rem;
+    position: relative;
+    top: -26rem;
+}
+.rainbow-p-around_medium3{
+    margin-left: 25rem;
+    position: relative;
+    top: -19.9rem;
+}
+.rainbow-p-around_medium11{
+    margin-left: 35rem;
+    top: -54.2rem;
+    position: relative;
+}
+.rainbow-p-around_medium22{
+    margin-left: 35rem;
+    top: -47.8rem;
+    position: relative;
+}.rainbow-p-around_medium33{
+    margin-left: 35rem;
+    top: -41.7rem;
+    position: relative;
+}
+.rainbow-p-around_medium44{
+    margin-left: 35rem;
+    top: -35.7rem;
+    position: relative;
+}
+.rainbow-p-around_medium111{
+    margin-left: 45rem;
+    top: -70rem;
+    position: relative;
+}
+.rainbow-p-around_medium222{
+    margin-left: 45rem;
+    top: -63.7rem;
+    position: relative;
+}
+.rainbow-p-around_medium333{
+    margin-left: 45rem;
+    top: -57.5rem;
+    position: relative;
+}
+.rainbow-p-around_medium444{
+    margin-left: 45rem;
+    top: -51.5rem;
+    position: relative;
+}
+.disabled-cursor input {
+    pointer-events:none;
+    
+}
+/* .rainbow-p-around_medium1111{
+    margin-left: 74rem;
+    top: -85.7rem;
+    position: relative;
+}
+.rainbow-p-around_medium2222{
+    margin-left: 74rem;
+    top: -79.3rem;
+    position: relative;
+}
+.rainbow-p-around_medium3333{
+    margin-left: 74rem;
+    top: -73.3rem;
+    position: relative;
+}
+.rainbow-p-around_medium4444{
+    margin-left: 74rem;
+    top: -67rem;
+    position: relative;
+}
+.rainbow-p-around_medium11111{
+    margin-left: 87rem;
+    top: -101.4rem;
+    position: relative;
+}
+.rainbow-p-around_medium22222{
+    margin-left: 87rem;
+    top: -95rem;
+    position: relative;
+}
+.rainbow-p-around_medium33333{
+    margin-left: 87rem;
+    top: -89rem;
+    position: relative;
+}
+.rainbow-p-around_medium44444{
+    margin-left: 87rem;
+    top: -82.8rem;
+    position: relative;
+} */
+.card2{
+   
+    position:sticky;
+    padding: 40px;
+    width: 10vw;
+    height: 68vh;
+    bottom: 20px;
+    right:-60rem;
+    top: -35.1rem;
+  
+}
+.abc{
+    background-color:white;
+
+}
+.def{
+    margin-left: -2rem;
+}
+.xyz1{
+    position: absolute;
+    top: 10rem;
+    margin-left: 10px ;
+    padding: 1rem;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.card3{
+    
+    position:sticky;
+    padding: 40px;
+    width: 10vw;
+    height: 68vh;
+    bottom: 20px;
+    right:-79rem;
+    top: -71.2rem;
+}
+.xyz2{
+    position: absolute;
+    top: 10rem;
+    margin-left: 10px ;
+    padding: 1rem;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.panel1{
+    font-size: 20px;
+}
+
+.pow1{
+    top: 2rem;
+    position: absolute;
+    margin-left: 3rem;
+}
+.bar{
+    margin-left: 0.5rem;
+    position: absolute;
+    top: 6rem;
+}
+/* CSS */
+.bar .circular-progress {
+    /* Adjust the width and height as needed */
+    width: 130px;
+    height: 100px;
+  }
+ .trust{
+    position: absolute;
+    top: -1rem;
+    justify-content: center;
+    display: flex;
+    margin-left: 1.3rem;
+    border: 2px solid rgb(91, 253, 172);
+ } 
